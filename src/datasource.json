@@ -1,0 +1,73 @@
+{
+    "resourceData": [{
+        "Id": 1,
+        "Subject": "Workflow Analysis",
+        "StartTime": "2021-04-01T04:00:00.000Z",
+        "EndTime": "2021-04-01T06:30:00.000Z",
+        "IsAllDay": false,
+        "TaskId": 1
+    }, {
+        "Id": 2,
+        "Subject": "Requirement planning",
+        "StartTime": "2021-04-01T07:00:00.000Z",
+        "EndTime": "2021-04-01T09:15:00.000Z",
+        "IsAllDay": false,
+        "TaskId": 2
+    }, {
+        "Id": 3,
+        "Subject": "Quality Analysis",
+        "StartTime": "2021-04-02T04:30:00.000Z",
+        "EndTime": "2021-04-02T07:00:00.000Z",
+        "IsAllDay": false,
+        "TaskId": 3
+    }, {
+        "Id": 4,
+        "Subject": "Resource planning",
+        "StartTime": "2021-04-02T07:30:00.000Z",
+        "EndTime": "2021-04-02T10:00:00.000Z",
+        "IsAllDay": false,
+        "TaskId": 4
+    }, {
+        "Id": 5,
+        "Subject": "Timeline estimation",
+        "StartTime": "2021-04-03T03:30:00.000Z",
+        "EndTime": "2021-04-03T06:00:00.000Z",
+        "IsAllDay": false,
+        "TaskId": 5
+    }, {
+        "Id": 6,
+        "Subject": "Developers Meeting",
+        "StartTime": "2021-04-03T08:30:00.000Z",
+        "EndTime": "2021-04-03T11:15:00.000Z",
+        "IsAllDay": false,
+        "TaskId": 1
+    }, {
+        "Id": 7,
+        "Subject": "Project Review",
+        "StartTime": "2021-04-04T05:45:00.000Z",
+        "EndTime": "2021-04-04T07:30:00.000Z",
+        "IsAllDay": false,
+        "TaskId": 2
+    }, {
+        "Id": 8,
+        "Subject": "Manual testing",
+        "StartTime": "2021-04-04T03:45:00.000Z",
+        "EndTime": "2021-04-04T06:15:00.000Z",
+        "IsAllDay": false,
+        "TaskId": 3
+    }, {
+        "Id": 9,
+        "Subject": "Project Preview",
+        "StartTime": "2021-04-05T04:00:00.000Z",
+        "EndTime": "2021-04-05T07:15:00.000Z",
+        "IsAllDay": false,
+        "TaskId": 4
+    }, {
+        "Id": 10,
+        "Subject": "Cross-browser testing",
+        "StartTime": "2021-04-05T08:15:00.000Z",
+        "EndTime": "2021-04-05T11:00:00.000Z",
+        "IsAllDay": false,
+        "TaskId": 5
+    }]
+}
